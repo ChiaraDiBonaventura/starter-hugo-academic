@@ -1,56 +1,59 @@
 ---
 title: Chiara Di Bonaventura
+superuser: true 
 role: PhD Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+organizations:
+  - name: King's College London 
+    url: https://www.kcl.ac.uk/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/ 
+bio: 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Knowledge Graphs
+  - Online Abuse Detection
+  - Ethics in AI
+education:
+  courses:
+    - course: PhD in Safe and Trusted Artificial Intelligence
+      institution: King's College London and Imperial College London
+      year: 2022-ongoing
+    - course: MSc in Data Science and Business Analytics
+      institution: Bocconi University
+      year: 2022
+    - course: BSc in Economics and Social Sciences
+      institution: Bocconi University
+      year: 2019
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/c_dibonaventura
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=4Vtc5X0AAAAJ&hl=en&oi=ao 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ChiaraDiBonaventura 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/chiara-di-bonaventura/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Di Bonaventura
 highlight_name: true
-first_name: Alice
+first_name: Chiara
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello World! I am a PhD student in Safe and Trusted AI at King's College London and Imperial College London. I am working on leveraging world knowledge for abusive language detection systems under the supervision of Albert Meroño-Peñuela and Barbara McGillivray. Before moving to London, I graduated in the MSc in Data Science at Bocconi University under the supervision of Dirk Hovy. 
+My research interests include NLP, biases in language models and Knowledge Graphs.
 {style="text-align: justify;"}
