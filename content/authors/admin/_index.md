@@ -54,7 +54,6 @@ highlight_name: true
 first_name: Chiara
 email: ""
 ---
-
-Hello World! I am a PhD student in Safe and Trusted AI at King's College London and Imperial College London where I am part of a cohort researching how to make AI safe and trustworthy. Currently, I work on leveraging world knowledge for abusive language detection systems under the supervision of Albert Meroño-Peñuela and Barbara McGillivray. Before moving to London, I graduated in the MSc in Data Science at Bocconi University under the supervision of Dirk Hovy. 
+Hello World! I am a PhD student in [Safe and Trusted AI](https://safeandtrustedai.org/) at King's College London and Imperial College London where I am part of a cohort researching how to make AI safe and trustworthy. Currently, I work on leveraging world knowledge for abusive language detection systems under the supervision of [Albert Meroño-Peñuela](https://www.albertmeronyo.org/) and [Barbara McGillivray](https://www.kcl.ac.uk/people/barbara-mcgillivray). Before moving to London, I graduated in the MSc in Data Science at Bocconi University under the supervision of [Dirk Hovy](https://dmi.unibocconi.eu/people/dirk-hovy). 
 My research interests include NLP, biases in language models and Knowledge Graphs.
 {style="text-align: justify;"}
