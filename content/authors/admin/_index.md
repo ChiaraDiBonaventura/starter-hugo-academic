@@ -1,29 +1,13 @@
 ---
 title: Chiara Di Bonaventura
-superuser: true 
 role: PhD Student
-organizations:
-  - name: King's College London 
-    url: https://www.kcl.ac.uk/
-  - name: Imperial College London
-    url: https://www.imperial.ac.uk/ 
-bio: 
+avatar_filename: kcl-photos-wed-14-dec-2022-503.png
+bio: null
 interests:
   - Natural Language Processing
   - Knowledge Graphs
   - Online Abuse Detection
   - Ethics in AI
-education:
-  courses:
-    - course: PhD in Safe and Trusted Artificial Intelligence
-      institution: King's College London and Imperial College London
-      year: 2022-ongoing
-    - course: MSc in Data Science and Business Analytics
-      institution: Bocconi University
-      year: 2022
-    - course: BSc in Economics and Social Sciences
-      institution: Bocconi University
-      year: 2019
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,16 +20,33 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=4Vtc5X0AAAAJ&hl=en&oi=ao 
+    link: https://scholar.google.com/citations?user=4Vtc5X0AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/ChiaraDiBonaventura 
+    link: https://github.com/ChiaraDiBonaventura
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chiara-di-bonaventura/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+organizations:
+  - name: King's College London
+    url: https://www.kcl.ac.uk/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
+education:
+  courses:
+    - course: PhD in Safe and Trusted Artificial Intelligence
+      institution: King's College London and Imperial College London
+      year: 2022-ongoing
+    - course: MSc in Data Science and Business Analytics
+      institution: Bocconi University
+      year: 2022
+    - course: BSc in Economics and Social Sciences
+      institution: Bocconi University
+      year: 2019
+superuser: true
 status:
   icon: ☕️
 last_name: Di Bonaventura
