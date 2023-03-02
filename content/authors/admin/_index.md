@@ -1,7 +1,7 @@
 ---
 title: Chiara Di Bonaventura
 role: PhD Student
-avatar_filename: kcl-photos-wed-14-dec-2022-503.png
+avatar_filename: avatar.jpg
 bio: null
 interests:
   - Natural Language Processing
