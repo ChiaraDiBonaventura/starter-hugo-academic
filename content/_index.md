@@ -3,7 +3,8 @@
 title:
 date: 2022-10-24
 type: landing
-
+design:
+  columns: '2'
 sections:
   - block: about.avatar
     id: about
@@ -12,8 +13,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-    design:
-      columns: '2'
+
   - block: features
     content:
       title: Skills
